@@ -12,7 +12,7 @@ best practices to drive innovation and enhance product quality.
 * 🌍  I'm based in India. Currently working from my home town Lucknow.
 * ✉️  You can contact me at [rishabh.z3im@gmail.com](mailto:rishabh.z3im@gmail.com).
 * 🔭 I’m currently working as an Software Development Engineer at [PeopleGrove](https://www.peoplegrove.com/)
-* 🧠  I'm learning React Native.
+* 🧠  I'm learning React Native and Next.js.
 * 🤝  I'm open to collaborating on anything fun and challenging.
 
 
